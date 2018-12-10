@@ -1,0 +1,14 @@
+class CfgFunctions
+{
+	class Functions
+    {
+        class Bootstrap
+        {
+            file="scripts"; //Look for file in folder called scripts
+            class preInit
+            {
+                preInit = 1;
+            };
+        };
+    };
+};
